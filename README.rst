@@ -1,4 +1,5 @@
-## Welcome to the icons repository.
+Welcome to the icons repository.
+================================
 
 This repo is maintained by kreusada. If there are any issues with file formatting be sure to file an issue.
 
